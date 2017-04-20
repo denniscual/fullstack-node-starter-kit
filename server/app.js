@@ -1,5 +1,5 @@
 import express from 'express';
-import mongoose from 'mongoose';
+// import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import path from 'path';
 import router from './routes';
@@ -11,7 +11,7 @@ import webpackConfig from '../webpack.config.dev';
 
 // we will connect our app to mongodb in this file.
 // example of connection - we are using mongoose package.
-// mongoose.connect('mongodb://localhost:27017/adminDashboard', () => {
+// mongoose.connect(process.env.DB_HOST, () => {
 //     console.log('Connecting to the mongodb database!');
 // });
 
