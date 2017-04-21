@@ -19,4 +19,4 @@ This is Fullstack Node Starter kit that uses `Express.js` for backend framework,
 1. `npm run start` - starts the development server with hot reloading enabled
 
 ## License
-MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Fullstack Node Starter Kit is released under the [MIT License](http://www.opensource.org/licenses/MIT).
