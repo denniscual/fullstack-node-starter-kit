@@ -16,7 +16,7 @@ This is Fullstack Node Starter kit that uses `Express.js` for backend framework,
 
 ## Available Commands
 
-1. `npm run start` - starts the development server with hot reloading enabled
+1. `npm start` - starts the development server with hot reloading enabled
 
 ## License
 Fullstack Node Starter Kit is released under the [MIT License](http://www.opensource.org/licenses/MIT).
